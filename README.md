@@ -8,7 +8,7 @@ Training invloves driving the car manually, wherein images are captured by the 3
 The Training Images can be found in the IMG folder.
 Steering Angles corresponding to the Training Images are stored in the driving_log.csv file.
 
-These Training Images and Steering Angles are clubbed together, and a Convlutional Neural Network is trained to predict a Steering Angle given an input Image
+These Training Images and Steering Angles are clubbed together, and a Convlutional Neural Network is trained to predict a Steering Angle from an input Image
 The model used for Convolutional Neral Network is the NVIDIA model as suggested by NVIDIA.
 Various Transformation and Data Augmentation Techniques are applied on the input images so as to make Training more efficient and achieve a Good Accuracy.
 
