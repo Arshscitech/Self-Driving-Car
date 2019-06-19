@@ -12,6 +12,8 @@ These Training Images and Steering Angles are clubbed together, and a Convlution
 The model used for Convolutional Neral Network is the NVIDIA model as suggested by NVIDIA.
 Various Transformation and Data Augmentation Techniques are applied on the input images so as to make Training more efficient and achieve a Good Accuracy.
 
+Drive.py contains the python program which interacts with the game and controls the Self Driving Car using sockets. 
+
 The performance of the Car after Training on the Trained Track can be found in the video below:-
 
 https://drive.google.com/open?id=1_SaNTLfogPnO2WkxNdc8UOjpDUfzpsns
